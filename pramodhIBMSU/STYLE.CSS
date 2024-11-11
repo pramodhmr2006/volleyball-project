@@ -1,0 +1,55 @@
+nav{
+    background-color: blue;
+    color: azure;
+    padding: 20px;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: azure;
+}
+li:hover{
+    color: azure;
+}
+.searchbar{
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input{
+    padding: 15px;
+    width: 60%;
+    border-radius: 10px; 
+}
+button{
+
+    background-color: blue;
+    color: azure;
+    padding: 20px;
+    border-radius: 10px;
+}
+button:hover{
+    color: gray;
+}
+.box{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+}
+.box:hover{
+    background-color: yellow;
+}
+.product{ 
+    text-align: center;
+}
+.contact{
+    background-color:black;
+    color:white;
+}
